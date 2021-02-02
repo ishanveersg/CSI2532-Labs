@@ -1,2 +1,5 @@
-Ishanveer Sharma Gobin 300135454
+Name: Ishanveer Sharma Gobin
+
+Student No: 300135454
+
 Lab 02
