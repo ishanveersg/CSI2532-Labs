@@ -12,24 +12,24 @@ Une base de données universitaire contient des informations sur les professeurs
 
 1. Les professeurs peuvent enseigner le même cours sur plusieurs semestres et seule la plus récente doit être enregistrée.
 
-![a](assets/1.png)
+![1](assets/1.png)
 
 2. Chaque professeur doit enseigner un cours.
 
-![b](assets/2.png)
+![2](assets/2.png)
 
 3. Chaque professeur enseigne exactement un cours (ni plus, ni moins).
 
-![c](assets/3.png)
+![3](assets/3.png)
 
 4. Chaque professeur enseigne exactement un cours (ni plus, ni moins), et chaque cours doit être enseigné par un professeur.
 
-![d](assets/4.png)
+![4](assets/4.png)
 
 5. Les professeurs peuvent enseigner le même cours sur plusieurs semestres et chaque doit être enregistrée.
 
-![e](assets/5.png)
+![5](assets/5.png)
 
 6. Supposons maintenant que certains cours puissent être enseignés conjointement par une équipe de professeurs, mais il est possible qu'aucun professeur dans une équipe ne puisse enseigner le cours. Modélisez cette situation en introduisant des ensembles d'entités et des ensembles de relations supplémentaires si nécessaire.
 
-![f](assets/6.png)
+![6](assets/6.png)
