@@ -12,7 +12,7 @@ Une base de données universitaire contient des informations sur les professeurs
 
 1. Les professeurs peuvent enseigner le même cours sur plusieurs semestres et seule la plus récente doit être enregistrée.
 
-![1](assets/1.png)
+![1](assets/1.PNG)
 
 2. Chaque professeur doit enseigner un cours.
 
